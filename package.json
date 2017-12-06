@@ -1,15 +1,25 @@
 {
   "name": "great-bay",
   "version": "1.0.0",
-  "description": "",
+  "description": "````````````````    ## Instructions",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "vag",
   "license": "ISC",
   "dependencies": {
+    "fs": "0.0.1-security",
     "inquirer": "^4.0.1",
-    "mysql": "^2.15.0"
-  }
+    "mysql": "^2.15.0",
+    "package.json": "^2.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JakeL501/Great-Bay.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JakeL501/Great-Bay/issues"
+  },
+  "homepage": "https://github.com/JakeL501/Great-Bay#readme"
 }
